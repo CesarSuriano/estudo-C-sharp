@@ -1,0 +1,37 @@
+/home/cesar/Área de Trabalho/dot net core/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/cesar/Área de Trabalho/dot net core/bin/Debug/netcoreapp3.1/appsettings.json
+/home/cesar/Área de Trabalho/dot net core/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/cesar/Área de Trabalho/dot net core/bin/Debug/netcoreapp3.1/dot net core
+/home/cesar/Área de Trabalho/dot net core/bin/Debug/netcoreapp3.1/dot net core.deps.json
+/home/cesar/Área de Trabalho/dot net core/bin/Debug/netcoreapp3.1/dot net core.runtimeconfig.json
+/home/cesar/Área de Trabalho/dot net core/bin/Debug/netcoreapp3.1/dot net core.runtimeconfig.dev.json
+/home/cesar/Área de Trabalho/dot net core/bin/Debug/netcoreapp3.1/dot net core.dll
+/home/cesar/Área de Trabalho/dot net core/bin/Debug/netcoreapp3.1/dot net core.pdb
+/home/cesar/Área de Trabalho/dot net core/bin/Debug/netcoreapp3.1/dot net core.Views.dll
+/home/cesar/Área de Trabalho/dot net core/bin/Debug/netcoreapp3.1/dot net core.Views.pdb
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/dot net core.csprojAssemblyReference.cache
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/dot net core.AssemblyInfoInputs.cache
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/dot net core.AssemblyInfo.cs
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/dot net core.csproj.CoreCompileInputs.cache
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/dot net core.MvcApplicationPartsAssemblyInfo.cache
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/dot net core.RazorAssemblyInfo.cache
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/dot net core.RazorAssemblyInfo.cs
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/dot net core.TagHelpers.input.cache
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/dot net core.TagHelpers.output.cache
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/dot net core.RazorCoreGenerate.cache
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/dot net core.RazorTargetAssemblyInfo.cache
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/dot net core.RazorTargetAssemblyInfo.cs
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/dot net core.Views.pdb
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/staticwebassets/dot net core.StaticWebAssets.Manifest.cache
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/staticwebassets/dot net core.StaticWebAssets.xml
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/dot net core.dll
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/dot net core.pdb
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/dot net core.genruntimeconfig.cache
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/dot net core.csproj.CopyComplete
