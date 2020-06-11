@@ -20519,6 +20519,17 @@
     "CSharpLanguageVersion": 800
   },
   "RootNamespace": "dot_net_core",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "/home/cesar/Área de Trabalho/dot net core/Views/Cadastro/formulario.cshtml",
+      "TargetPath": "Views\\Cadastro\\formulario.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/cesar/Área de Trabalho/dot net core/Views/Livros/para-ler.cshtml",
+      "TargetPath": "Views\\Livros\\para-ler.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }

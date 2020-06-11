@@ -20,3 +20,13 @@
 /home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/dot net core.pdb
 /home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/dot net core.genruntimeconfig.cache
 /home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/dot net core.csproj.CopyComplete
+/home/cesar/Área de Trabalho/dot net core/bin/Debug/netcoreapp3.1/dot net core.Views.pdb
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/dot net core.RazorAssemblyInfo.cache
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/dot net core.RazorAssemblyInfo.cs
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/dot net core.TagHelpers.input.cache
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/dot net core.TagHelpers.output.cache
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/dot net core.RazorCoreGenerate.cache
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/Razor/Views/Cadastro/formulario.cshtml.g.cs
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/Razor/Views/Livros/para-ler.cshtml.g.cs
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/dot net core.RazorTargetAssemblyInfo.cs
+/home/cesar/Área de Trabalho/dot net core/obj/Debug/netcoreapp3.1/dot net core.Views.pdb
