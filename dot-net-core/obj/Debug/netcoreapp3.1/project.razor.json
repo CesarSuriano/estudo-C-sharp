@@ -1,5 +1,5 @@
 {
-  "FilePath": "/home/cesar/Área de Trabalho/dot net core/dot net core.csproj",
+  "FilePath": "/home/cesar/Área de Trabalho/c-sharp/dot-net-core/dot net core.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20521,13 +20521,13 @@
   "RootNamespace": "dot_net_core",
   "Documents": [
     {
-      "FilePath": "/home/cesar/Área de Trabalho/dot net core/Views/Cadastro/formulario.cshtml",
-      "TargetPath": "Views\\Cadastro\\formulario.cshtml",
+      "FilePath": "/home/cesar/Área de Trabalho/c-sharp/dot-net-core/Views/Livros/para-ler.cshtml",
+      "TargetPath": "Views\\Livros\\para-ler.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/cesar/Área de Trabalho/dot net core/Views/Livros/para-ler.cshtml",
-      "TargetPath": "Views\\Livros\\para-ler.cshtml",
+      "FilePath": "/home/cesar/Área de Trabalho/c-sharp/dot-net-core/Views/Cadastro/formulario.cshtml",
+      "TargetPath": "Views\\Cadastro\\formulario.cshtml",
       "FileKind": "mvc"
     }
   ],
