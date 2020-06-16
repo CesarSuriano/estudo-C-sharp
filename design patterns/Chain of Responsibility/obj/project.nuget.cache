@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kmZNJzLrF8i21NtNcD/0AGfvA2zCE6pIw4ViNqPfhY2PC2sxr8QV0CYIpZxRlQU5DkNg5Ems3eAVvCGRKPFzHw==",
+  "success": true,
+  "projectFilePath": "/home/cesar/Área de Trabalho/c-sharp/design patterns/Chain of Responsibility/dot net core.csproj",
+  "expectedPackageFiles": [
+    "/home/cesar/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

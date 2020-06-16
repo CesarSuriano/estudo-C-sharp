@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qi+eeU1llJ/bwuQgGwLzFHEjcurLt8344wxbY7PjT0RBQN0v//WIIq6d9JF2WqswciqXpaOQOz8eu8YkPB3ZlQ==",
+  "success": true,
+  "projectFilePath": "/home/cesar/Área de Trabalho/c-sharp/design patterns/Strategy/dot net core.csproj",
+  "expectedPackageFiles": [
+    "/home/cesar/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
